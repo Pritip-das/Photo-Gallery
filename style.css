@@ -109,13 +109,13 @@ h1{
     align-items: center;
     min-height: 4vh;
   }
-@media(max-width:1024px){
+/* @media(max-width:1024px){
     .wrapper{
         grid-template-columns: repeat(2,1fr);
     }
     
-}
-@media(max-width:680px){
+} */
+@media(max-width:600px){
     .wrapper{
         grid-template-columns: repeat(1,1fr);
     }
